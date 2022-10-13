@@ -1,0 +1,4 @@
+- 👋 Olá, I’m Matheus Barbosa.
+- 🏃‍ Faça dinheiro se mantenha vivo.
+- 👀 Atualmente estou me dedicando a React Native.
+- 📱💻 Desenvolvedor Full Stack.
