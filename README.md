@@ -1,4 +1,3 @@
 - 👋 Olá, I’m Matheus Barbosa.
-- 🏃‍ Faça dinheiro se mantenha vivo.
-- 👀 Atualmente estou me dedicando a NodeJS.
+- 👀 Atualmente estou me dedicando a NestJs.
 - 📱💻 Desenvolvedor Full Stack.
